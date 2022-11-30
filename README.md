@@ -12,3 +12,5 @@ In this tutorial, we will take the branch named develop and rebase it onto the t
 
 The develop branch broke off from master at commit C, so both branches share the files a.html, b.html and c.html. See the image below to help visualize this.
 
+Since the branch occurred, master has added commits D and E. This means master has two files that develop does not have, namely d.html and e.html.
+
