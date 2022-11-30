@@ -1,5 +1,5 @@
 # Rebase Demo 3
 
-  ##Introduction:
+  ## Introduction:
 
   	This repo is maintained to demonstrate rebase functionality of git.
